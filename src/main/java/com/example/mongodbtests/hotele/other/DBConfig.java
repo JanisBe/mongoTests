@@ -1,10 +1,9 @@
-package com.example.mongodbtests.drugiCase.other;
+package com.example.mongodbtests.hotele.other;
 
-import com.example.mongodbtests.drugiCase.models.Address;
-import com.example.mongodbtests.drugiCase.models.Hotel;
-import com.example.mongodbtests.drugiCase.models.Review;
-import com.example.mongodbtests.drugiCase.repo.HotelRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.mongodbtests.hotele.models.Address;
+import com.example.mongodbtests.hotele.models.Hotel;
+import com.example.mongodbtests.hotele.models.Review;
+import com.example.mongodbtests.hotele.repo.HotelRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

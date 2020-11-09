@@ -1,4 +1,4 @@
-package com.example.mongodbtests.drugiCase.models;
+package com.example.mongodbtests.hotele.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

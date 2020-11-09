@@ -1,10 +1,9 @@
-package com.example.mongodbtests.drugiCase.controller;
+package com.example.mongodbtests.hotele.controller;
 
-import com.example.mongodbtests.drugiCase.models.Hotel;
-import com.example.mongodbtests.drugiCase.repo.HotelRepository;
+import com.example.mongodbtests.hotele.models.Hotel;
+import com.example.mongodbtests.hotele.repo.HotelRepository;
 import org.springframework.web.bind.annotation.*;
 
-import javax.xml.ws.Holder;
 import java.util.List;
 
 @RestController

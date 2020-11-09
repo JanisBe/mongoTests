@@ -1,6 +1,6 @@
-package com.example.mongodbtests.drugiCase.repo;
+package com.example.mongodbtests.hotele.repo;
 
-import com.example.mongodbtests.drugiCase.models.Hotel;
+import com.example.mongodbtests.hotele.models.Hotel;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

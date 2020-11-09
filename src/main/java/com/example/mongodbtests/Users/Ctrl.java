@@ -1,4 +1,4 @@
-package com.example.mongodbtests;
+package com.example.mongodbtests.Users;
 
 import org.springframework.web.bind.annotation.*;
 
